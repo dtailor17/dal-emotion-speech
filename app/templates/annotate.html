@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='img/favicon.ico') }}">
+    <title>DAL for Emotional Speech Recognition</title>
+
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
+    <link href="{{ url_for('static', filename='css/style.css') }}" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+
+<main>
+    <body class="grey lighten-2">
+        <div class="container">
+
+            <div class="row">
+            </div>
+
+            <div class="row">
+                <div class="col s4 m2 l2 offset-s4 offset-m5 offset-l5 center">
+                    <img width="85%" src="{{ url_for('static', filename='img/cloud.png') }}" alt="" class="circle responsive-img">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col s12 m8 l6 offset-m2 offset-l3">
+                    <div class="card grey lighten-3">
+                        <div class="section no-pad-bot" id="index-banner">
+                            <div class="row">
+                                <form class="col s10 offset-s1">
+                                    <div class="row">
+                                        <div class="row">
+                                            <div ID="audio_div">
+                                                <!--  TODO: Issue on mobile -->
+                                                <audio id="audioplayer" preload controls>
+                                                    <source src="{{ url_for('static', filename='audio/speech01.wav') }}" type="audio/wav">
+                                                    Your browser does not support the audio element.
+                                                </audio>
+                                            </div>
+                                        </div>
+
+                                        <div class="input-field col s12">
+                                            <select>
+                                                <option value="" disabled selected>Choose your option</option>
+                                                <option value="1">NEG</option>
+                                                <option value="2">IDL</option>
+                                            </select>
+                                            <label>Emotion Label</label>
+                                        </div>
+
+                                        <div class="input-field col s12">
+                                            <input id="confidence" type="number" min="0" max="10" class="validate">
+                                            <label for="confidence">Confidence</label>
+                                        </div>
+
+                                        <button class="btn waves-effect waves-light col s6 offset-s3">
+                                            <i class="material-icons right">send</i>
+                                            Submit
+                                        </button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </body>
+</main>
+
+<footer class="page-footer">
+    <div class="footer-copyright">
+        <div class="container">
+            Emotion Annotation Platform
+            <a class="grey-text text-lighten-4 right">Powered by Dynamic Active Learning</a></div>
+    </div>
+</footer>
+
+
+<!--  Scripts-->
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+<script src="{{ url_for('static', filename='js/init.js') }}"></script>
+<!-- Neccessary to use Materialize select styling -->
+<script>
+    $(document).ready(function() {
+        $('select').material_select();
+    });
+</script>
+
+</html>

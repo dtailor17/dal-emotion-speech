@@ -1,0 +1,137 @@
+
+Iteration 0
+Number of machine-labelled instances: 0
+UAR: 0.599216916937 
+
+Iteration 1
+Number of machine-labelled instances: 200
+Confidence lower bound: 1
+UAR: 0.58357834157 
+
+Iteration 2
+Number of machine-labelled instances: 400
+Confidence lower bound: 1
+UAR: 0.587824406296 
+
+Iteration 3
+Number of machine-labelled instances: 600
+Confidence lower bound: 1
+UAR: 0.58476391334 
+
+Iteration 4
+Number of machine-labelled instances: 800
+Confidence lower bound: 1
+UAR: 0.588325096886 
+
+Iteration 5
+Number of machine-labelled instances: 1000
+Confidence lower bound: 1
+UAR: 0.58908941336 
+
+Iteration 6
+Number of machine-labelled instances: 1200
+Confidence lower bound: 1
+UAR: 0.588245413356 
+
+Iteration 7
+Number of machine-labelled instances: 1400
+Confidence lower bound: 1
+UAR: 0.581623240384 
+
+Iteration 8
+Number of machine-labelled instances: 1600
+Confidence lower bound: 1
+UAR: 0.581204715676 
+
+Iteration 9
+Number of machine-labelled instances: 1800
+Confidence lower bound: 1
+UAR: 0.582265673328 
+
+Iteration 10
+Number of machine-labelled instances: 2000
+Confidence lower bound: 1
+UAR: 0.583476316863 
+
+Iteration 11
+Number of machine-labelled instances: 2200
+Confidence lower bound: 1
+UAR: 0.583211698039 
+
+Iteration 12
+Number of machine-labelled instances: 2400
+Confidence lower bound: 1
+UAR: 0.583136482744 
+
+Iteration 13
+Number of machine-labelled instances: 2600
+Confidence lower bound: 1
+UAR: 0.581716576855 
+
+Iteration 14
+Number of machine-labelled instances: 2800
+Confidence lower bound: 1
+UAR: 0.581822076856 
+
+Iteration 15
+Number of machine-labelled instances: 3000
+Confidence lower bound: 1
+UAR: 0.582349576858 
+
+Iteration 16
+Number of machine-labelled instances: 3200
+Confidence lower bound: 1
+UAR: 0.582823458037 
+
+Iteration 17
+Number of machine-labelled instances: 3400
+Confidence lower bound: 1
+UAR: 0.582113505092 
+
+Iteration 18
+Number of machine-labelled instances: 3600
+Confidence lower bound: 1
+UAR: 0.582980839214 
+
+Iteration 19
+Number of machine-labelled instances: 3800
+Confidence lower bound: 1
+UAR: 0.58277157686 
+
+Iteration 20
+Number of machine-labelled instances: 4000
+Confidence lower bound: 1
+UAR: 0.582614195683 
+
+Iteration 21
+Number of machine-labelled instances: 4200
+Confidence lower bound: 1
+UAR: 0.581643099208 
+
+Iteration 22
+Number of machine-labelled instances: 4400
+Confidence lower bound: 1
+UAR: 0.582510433329 
+
+Iteration 23
+Number of machine-labelled instances: 4600
+Confidence lower bound: 1
+UAR: 0.581827289797 
+
+Iteration 24
+Number of machine-labelled instances: 4800
+Confidence lower bound: 1
+UAR: 0.581694980384 
+
+Iteration 25
+Number of machine-labelled instances: 5000
+Confidence lower bound: 1
+UAR: 0.581854099209 
+
+Unlabelled instances remaining: 4760 
+
+X-data:
+[0, 200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, 5000] 
+
+Y-data:
+[0.5992169169374914, 0.5835783415697804, 0.5878244062956443, 0.5847639133400655, 0.5883250968862358, 0.5890894133604208, 0.588245413356449, 0.5816232403841094, 0.5812047156762575, 0.582265673328309, 0.5834763168634179, 0.5832116980386433, 0.5831364827441716, 0.5817165768551369, 0.5818220768556333, 0.5823495768581157, 0.5828234580368163, 0.5821135050922989, 0.5829808392140274, 0.5827715768601016, 0.5826141956828903, 0.5816430992077322, 0.5825104333294608, 0.5818272897968343, 0.5816949803844469, 0.5818540992087251]

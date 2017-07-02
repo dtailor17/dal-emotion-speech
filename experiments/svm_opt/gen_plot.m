@@ -1,0 +1,19 @@
+load('inst_200.mat');
+
+plot(c_pow, uar_is09); hold on;
+plot(c_pow, uar_egemaps); 
+xlabel('SVM Complexity, log(C)');
+ylabel('UAR [%]');
+hleg = legend('IS09', 'eGeMAPS', 'Location', 'southeast');
+
+hlt = text(...
+    'Parent', hleg.DecorationContainer, ...
+    'String', 'Feature Set', ...
+    'HorizontalAlignment', 'center', ...
+    'VerticalAlignment', 'bottom', ...
+    'Position', [0.5, 1.05, 0], ...
+    'Units', 'normalized');
+
+set(gca,'gridlinestyle','--');
+grid on;
+set(gcf,'units','points','position',[400,400,680,180]);

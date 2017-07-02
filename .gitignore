@@ -1,0 +1,29 @@
+# Ignore editor backup files (e.g. Vim, Emacs)
+*~
+
+# Ignore MAC OS X metadata files
+*.DS_Store
+*._*
+
+# Python compiled files
+*.pyc
+
+# Virtualenv
+venv/
+
+# Wav files
+*.wav
+
+# SMILExtract log files
+smile.log
+
+# AIBO dataset
+dev/feature_extraction/AIBO/
+
+# IS13 ARFF files
+dev/feature_extraction/arff/aibo_train_IS13.arff
+dev/feature_extraction/arff/aibo_test_IS13.arff
+dev/dataset/train_200/train_IS13.arff
+dev/dataset/train_200/unlabelled_IS13.arff
+dev/dataset/train_500/train_IS13.arff
+dev/dataset/train_500/unlabelled_IS13.arff

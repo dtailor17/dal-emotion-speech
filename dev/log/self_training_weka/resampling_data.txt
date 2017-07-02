@@ -1,0 +1,345 @@
+
+Iteration 0
+Number of machine-labelled instances: 0
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2   149   50
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2   199  199
+
+UAR: 0.637455081823 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2   246  153
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2   399  399
+
+Iteration 1
+Number of machine-labelled instances: 200
+Confidence lower bound: 0.998
+UAR: 0.628688900606 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2   424  175
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2   599  599
+
+Iteration 2
+Number of machine-labelled instances: 400
+Confidence lower bound: 0.998
+UAR: 0.650389878355 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2   540  259
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2   799  799
+
+Iteration 3
+Number of machine-labelled instances: 600
+Confidence lower bound: 0.99
+UAR: 0.662072576057 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2   703  296
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2   999  999
+
+Iteration 4
+Number of machine-labelled instances: 800
+Confidence lower bound: 0.994
+UAR: 0.648932737171 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2   851  348
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  1199 1199
+
+Iteration 5
+Number of machine-labelled instances: 1000
+Confidence lower bound: 0.994
+UAR: 0.656974071327 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  1000  399
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  1399 1399
+
+Iteration 6
+Number of machine-labelled instances: 1200
+Confidence lower bound: 0.989
+UAR: 0.642129600669 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  1191  408
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  1599 1599
+
+Iteration 7
+Number of machine-labelled instances: 1400
+Confidence lower bound: 0.996
+UAR: 0.656502672501 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  1341  458
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  1799 1799
+
+Iteration 8
+Number of machine-labelled instances: 1600
+Confidence lower bound: 0.989
+UAR: 0.660727885462 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  1498  501
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  1999 1999
+
+Iteration 9
+Number of machine-labelled instances: 1800
+Confidence lower bound: 0.989
+UAR: 0.650212638354 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  1673  526
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2199 2199
+
+Iteration 10
+Number of machine-labelled instances: 2000
+Confidence lower bound: 0.991
+UAR: 0.659813883105 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  1844  555
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2399 2399
+
+Iteration 11
+Number of machine-labelled instances: 2200
+Confidence lower bound: 0.992
+UAR: 0.650051781883 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2015  584
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2599 2599
+
+Iteration 12
+Number of machine-labelled instances: 2400
+Confidence lower bound: 0.992
+UAR: 0.659668665457 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2117  682
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2799 2799
+
+Iteration 13
+Number of machine-labelled instances: 2600
+Confidence lower bound: 0.989
+UAR: 0.655589663085 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2289  710
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2999 2999
+
+Iteration 14
+Number of machine-labelled instances: 2800
+Confidence lower bound: 0.988
+UAR: 0.659012331337 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2394  805
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3199 3199
+
+Iteration 15
+Number of machine-labelled instances: 3000
+Confidence lower bound: 0.987
+UAR: 0.651555591301 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2584  815
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3399 3399
+
+Iteration 16
+Number of machine-labelled instances: 3200
+Confidence lower bound: 0.99
+UAR: 0.649921954823 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2783  816
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3599 3599
+
+Iteration 17
+Number of machine-labelled instances: 3400
+Confidence lower bound: 0.991
+UAR: 0.654100499549 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  2932  867
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3799 3799
+
+Iteration 18
+Number of machine-labelled instances: 3600
+Confidence lower bound: 0.986
+UAR: 0.655913113675 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3008  991
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3999 3999
+
+Iteration 19
+Number of machine-labelled instances: 3800
+Confidence lower bound: 0.985
+UAR: 0.652799994837 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3161 1038
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  4199 4199
+
+Iteration 20
+Number of machine-labelled instances: 4000
+Confidence lower bound: 0.985
+UAR: 0.651257212477 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3352 1047
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  4399 4399
+
+Iteration 21
+Number of machine-labelled instances: 4200
+Confidence lower bound: 0.987
+UAR: 0.651619636008 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3444 1155
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  4599 4599
+
+Iteration 22
+Number of machine-labelled instances: 4400
+Confidence lower bound: 0.984
+UAR: 0.655882828969 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3547 1252
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  4799 4799
+
+Iteration 23
+Number of machine-labelled instances: 4600
+Confidence lower bound: 0.979
+UAR: 0.653297210133 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3722 1277
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  4999 4999
+
+Iteration 24
+Number of machine-labelled instances: 4800
+Confidence lower bound: 0.983
+UAR: 0.652077878363 
+
+**BEFORE RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  3908 1291
+
+**AFTER RESAMPLING**
+Type  Nom  Int Real     Missing      Unique  Dist  C[0] C[1]
+ Nom 100%   0%   0%     0 /  0%     0 /  0%     2  5199 5199
+
+Iteration 25
+Number of machine-labelled instances: 5000
+Confidence lower bound: 0.982
+UAR: 0.659006373689 
+
+Unlabelled instances remaining: 4760 
+
+X-data:
+[0, 200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, 5000] 
+
+Y-data:
+[0.637455081823318, 0.6286889006055949, 0.6503898783547759, 0.662072576056812, 0.6489327371714482, 0.6569740713269367, 0.6421296006688452, 0.6565026725011891, 0.6607278854622489, 0.6502126383539418, 0.6598138831050064, 0.6500517818825966, 0.6596686654572643, 0.6555896630851279, 0.6590123313365286, 0.6515555913014381, 0.6499219548231622, 0.6541004995487083, 0.6559131136748853, 0.6527999948367058, 0.6512572124765046, 0.6516196360076218, 0.6558828289688604, 0.6532972101331633, 0.6520778783627195, 0.6590063736894418]
